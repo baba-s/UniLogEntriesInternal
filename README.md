@@ -9,7 +9,7 @@ using UniLogEntriesInternal;
 using UnityEditor;
 using UnityEngine;
 
-public class Example : MonoBehaviour
+public class Example
 {
     [MenuItem( "Tools/Log" )]
     private static void Log()
